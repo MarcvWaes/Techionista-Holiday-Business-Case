@@ -1,4 +1,4 @@
-# Techionista-Holiday-Business-Case
+# Techionista "Holiday" Business Case
 
 # Business case for the DEC22 Full Time class
 # Team members are:
@@ -11,5 +11,3 @@
 - Gain 'hands on' experience with Power BI.
 - Being exposed to 'Azure Cognitive Services'
 - Performing duties that are part of Data Engineer and Data Analyst
-
-
