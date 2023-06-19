@@ -7,4 +7,9 @@
 - Robena Sahetapy
 - Marc van Waes
 
+  # Goal:
+  - Gain 'hands on' experience with Power BI.
+  - Being exposed to 'Azure Cognitive Services'
+  - Performing duties that are part of Data Engineer and Data Analyst
+
 
